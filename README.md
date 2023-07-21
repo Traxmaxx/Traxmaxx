@@ -3,7 +3,7 @@
 [![Traxmaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Traxmaxx&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working at @tailwarden
+- 🔭 I’m currently working at [@tailwarden](https://github.com/tailwarden)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-r-b0ab4477/)
 - 😄 Pronouns: he/him
 
