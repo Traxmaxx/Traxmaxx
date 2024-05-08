@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-[![Traxmaxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Traxmaxx&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🔭 I’m currently working at [@tailwarden](https://github.com/tailwarden)
+- 🔭 I’m currently working at [@liv-labs](https://github.com/liv-labs)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-r-b0ab4477/)
 - 😄 Pronouns: he/him
+- 🌱 I’m currently learning about LLMs
 
-<!--
-**Traxmaxx/Traxmaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Traxmaxx&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=traxmaxx&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
