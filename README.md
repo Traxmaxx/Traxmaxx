@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [@liv-labs](https://github.com/liv-labs)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexander-r-b0ab4477/)
+- 📫 How to reach me: [GitHub](https://github.com/traxmaxx), [LinkedIn](https://www.linkedin.com/in/alexander-r-b0ab4477/)
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning about LLMs
 
