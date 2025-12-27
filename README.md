@@ -7,4 +7,6 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
+![Dotfiles](./profile/pin-dotfiles-stats.svg)
+![Fmux](./profile/pin-fmux-stats.svg)
