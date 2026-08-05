@@ -7,6 +7,3 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-
-![Dotfiles](./profile/pin-dotfiles-stats.svg)
-![Fmux](./profile/pin-fmux-stats.svg)
