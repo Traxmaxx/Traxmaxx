@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="83.79"
+          width="83.83"
           height="8"
           fill="#89e051"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="83.79"
+          x="83.83"
           y="0"
-          width="31.99"
+          width="31.98"
           height="8"
           fill="#701516"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="115.78"
+          x="115.81"
           y="0"
-          width="28.44"
+          width="28.43"
           height="8"
           fill="#c065db"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="144.22"
+          x="144.24"
           y="0"
-          width="26.93"
+          width="26.92"
           height="8"
           fill="#3572A5"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="171.15"
+          x="171.16000000000003"
           y="0"
           width="21.9"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="193.05"
+          x="193.06000000000003"
           y="0"
-          width="16.17"
+          width="16.16"
           height="8"
           fill="#f1e05a"
         />
@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="223.94000000000003"
           y="0"
-          width="16.06"
+          width="16.05"
           height="8"
           fill="#302B6D"
         />
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 36.43%
+        Shell 36.45%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -225,7 +225,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#c065db" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Emacs Lisp 12.37%
+        Emacs Lisp 12.36%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
